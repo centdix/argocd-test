@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: centdix/argo-nginx:v2
+        image: centdix/argo-nginx:v1
         ports:
         - containerPort: 80
